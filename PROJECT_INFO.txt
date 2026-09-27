@@ -1,0 +1,7 @@
+AIRLINE DATA ANALYSIS AND VISUALIZATION SYSTEM
+2nd Year College Project
+
+Main website: index.html
+Python analysis: python/airline_analysis.py
+Analysis output: data/analysis.json
+Cleaned data: data/airline_cleaned.csv
