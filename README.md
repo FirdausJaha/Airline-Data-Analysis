@@ -179,3 +179,5 @@ The Domestic/International field is an approximate classification based on wheth
 ## Notes
 
 The dashboard is intentionally designed as a polished 2nd-year college project: substantial enough to demonstrate data analysis and web development, while avoiding unnecessary machine learning, authentication, databases, APIs, or complex production architecture.
+
+GitHub Pages deployment enabled.
